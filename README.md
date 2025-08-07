@@ -48,6 +48,7 @@ Mosaicked LST with gradient color to show Land Surface Temperature:
 <img width="1054" height="810" alt="image" src="https://github.com/user-attachments/assets/0a04968b-20c9-4d21-8dc1-93d94454cce1" />
 Heat Map for year 2001:
 <img width="577" height="358" alt="image" src="https://github.com/user-attachments/assets/b93d97ab-7718-449a-a346-cf0a09153791" />
+
 Heat Map for 2002:
 <img width="626" height="393" alt="image" src="https://github.com/user-attachments/assets/98435339-be14-48a5-b728-24dfc8cecdfd" />
 Persistent and Transient Urban Heat Island Detection:
