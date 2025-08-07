@@ -50,10 +50,13 @@ Heat Map for year 2001:
 
 
 <img width="656" height="406" alt="image" src="https://github.com/user-attachments/assets/b817dd08-7610-461b-ae26-054a169b6ff7" />
+
+
 Heat Map for 2002:
 
 
 <img width="626" height="393" alt="image" src="https://github.com/user-attachments/assets/98435339-be14-48a5-b728-24dfc8cecdfd" />
+
 Persistent and Transient Urban Heat Island Detection:
 
 
