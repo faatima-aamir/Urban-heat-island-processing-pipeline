@@ -47,10 +47,9 @@ Monthly Mean:
 Mosaicked LST with gradient color to show Land Surface Temperature:
 <img width="1054" height="810" alt="image" src="https://github.com/user-attachments/assets/0a04968b-20c9-4d21-8dc1-93d94454cce1" />
 Heat Map for year 2001:
-<img width="577" height="358" alt="image" src="https://github.com/user-attachments/assets/b93d97ab-7718-449a-a346-cf0a09153791" />
+<img width="656" height="406" alt="image" src="https://github.com/user-attachments/assets/b817dd08-7610-461b-ae26-054a169b6ff7" />
 Heat Map for 2002:
 <img width="626" height="393" alt="image" src="https://github.com/user-attachments/assets/98435339-be14-48a5-b728-24dfc8cecdfd" />
-
 Persistent and Transient Urban Heat Island Detection:
 <img width="1345" height="628" alt="image" src="https://github.com/user-attachments/assets/ce3fa448-5ec4-4ae1-b154-3bc329acbe04" />
 Rural and Urban UHI Zones Count:
