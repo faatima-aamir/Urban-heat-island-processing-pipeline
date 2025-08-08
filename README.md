@@ -30,14 +30,24 @@ This project automates the detection of Urban Heat Islands (UHI) across South As
 ## 🚀 How to Run
 
 1. **Clone the Repository**  
+```bash
 git clone https://github.com/faatima-aamir/urban-heat-island-pipeline.git
+```
+```
 cd urban-heat-island-pipeline
+```
 2. **Create & Activate Environment**
+```
 conda create -n uhi_env python=3.10
+```
+```
 conda activate uhi_env
-3. **Install Requirements**
+```
+4. **Install Requirements**
+```
 pip install -r requirements.txt
-4. **Launch Notebook**
+```
+6. **Launch Notebook**
 jupyter lab
 Run All Cells in processingpipeline_updated.ipynb
 
